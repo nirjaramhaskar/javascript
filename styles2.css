@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5eef8;
+    margin: 0;
+    padding: 0;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #7b68ee; /* MediumSlateBlue */
+  }
+  
+  input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #7b68ee;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #9370db; /* MediumPurple */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #7b68ee; /* MediumSlateBlue */
+  }
+  
+  #result {
+    font-size: 18px;
+    color: #7b68ee; /* MediumSlateBlue */
+    margin-top: 10px;
+  }
+  
